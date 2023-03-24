@@ -2,7 +2,7 @@
 
 ## O que você encontra nesta biblioteca
 
-Nesta biblioteca é possível encontrar o mapeamento entre a pinagem da placa Franzininho Wifi, a codificação dos pinos de ativação da placa [Laboratório de sistemas embarcados e IoT](https://github.com/Franzininho/laboratorio-SEIoT-Franzininho-Wifi) e exemplos de utilização dos periféricos disponíveis na placa.
+Nesta biblioteca é possível encontrar o mapeamento entre a pinagem da placa Franzininho Wifi e a codificação dos pinos de ativação da placa [Laboratório de sistemas embarcados e IoT](https://github.com/Franzininho/laboratorio-SEIoT-Franzininho-Wifi) e exemplos de utilização dos periféricos disponíveis na placa.
 
 ## Placas compatíveis com a biblioteca
 

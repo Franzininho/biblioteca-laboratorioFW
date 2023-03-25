@@ -6,7 +6,7 @@ Nesta biblioteca é possível encontrar o mapeamento entre a pinagem da placa Fr
 
 ## Placas compatíveis com a biblioteca
 
--   Franzininho Wifi
+-   [Franzininho Wifi](https://github.com/Franzininho/Franzininho-WiFi)
 
 ## Como instalar a biblioteca
 

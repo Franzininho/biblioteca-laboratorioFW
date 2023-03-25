@@ -23,6 +23,8 @@ Adafruit_NeoPixel pixels(1, led, NEO_GRB + NEO_KHZ800);
 void ligaLED(int r, int g, int b);
 
 void setup() {
+  pixels.begin();
+  pixels.clear();
   pinMode(buzzer, OUTPUT);
   pinMode(btn, INPUT);
   ligaLED(0, 0, 0);
